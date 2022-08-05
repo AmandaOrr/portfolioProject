@@ -1,0 +1,42 @@
+
+color mod function :
+https://www.digitalocean.com/community/tutorials/css-color-function
+
+
+12
+
+
+
+colors:
+gold #CDA34F primary button
+
+daisy #E9E7DA background
+
+Stem #636B46 secondary button
+
+Greenery #373f27 font color
+
+
+fonts:
+
+paragraphs = Xanh Mono
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Xanh+Mono&display=swap" rel="stylesheet">
+
+font-family: 'Xanh Mono', monospace;
+
+
+headings: Staatliches
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Staatliches&display=swap" rel="stylesheet">
+
+font-family: 'Staatliches', cursive;
+
+
+
+image credit link put in footer
+
+<a href="https://iconscout.com/illustrations/women" target="_blank">Women Web Developer with laptop Illustration</a> by <a href="https://iconscout.com/contributors/woobrodesign">WOOBRO LTD</a> on <a href="https://iconscout.com">IconScout</a>
